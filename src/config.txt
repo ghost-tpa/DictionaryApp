@@ -1,0 +1,4 @@
+FONT=Times New Roman= Kiểu chữ
+FONT_SIZE=30= Cỡ chữ
+DATA_FILE_PATH=data.txt= Vị trí file từ điển
+HISTORY_FILE_PATH=history.txt= Vị trí file các từ đã xem
